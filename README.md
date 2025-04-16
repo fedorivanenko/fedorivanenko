@@ -6,7 +6,7 @@ Partnering with branding & web design studios to bring your designs to life with
 
 ### What I Do
 
-- Frontend development for brand/marketing sites
+- Frontend development for brand/marketing sites using `next.js`
 - Figma-to-production implementation
 - Responsive, accessible, lightning-fast builds
 - Micro-interactions & motion design — `framer-motion`
@@ -19,6 +19,9 @@ Partnering with branding & web design studios to bring your designs to life with
 - I speak design fluently (12 years of design experience)
 - I make websites easy to update and maintain
 - I care about interaction, motion, layout nuance
+
+### Tools of choice
+`next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
 
 ### Contact me
 📩 f@fedor.studio
