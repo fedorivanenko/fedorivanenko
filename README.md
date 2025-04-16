@@ -26,3 +26,5 @@ Every build is custom, fast, responsive, and animated with nuance — so your de
 
 ### Contact me
 📩 f@fedor.studio
+
+👇 See my projects down below
