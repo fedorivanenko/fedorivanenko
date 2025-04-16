@@ -20,18 +20,5 @@ Partnering with branding & web design studios to bring your designs to life with
 - I make websites easy to update and maintain
 - I care about interaction, motion, layout nuance
 
-### Tools of choice
-
-Frameworks & UI : `next` · `react` · `tailwind` · `shadcn/ui`
-
-CMS : `basehub` · `sanity` · `markdown`
-
-Motion : `framer-motion` · `gsap` · `use-gesture` · `three.js`
-
-Data & State  : `swr` · `zustand` · `zod` · `prisma`
-
-Infra : `vercel` · `neon`
-
-
 ### Contact me
 f@fedor.studio
