@@ -6,11 +6,11 @@ I help branding and web design studios turn finished visuals into custom-coded m
 Built in Next.js with fluid animations and clean CMS setup, ready for handoff or ongoing edits.
 
 ### What You Get  
-✅ Figma to production in 10 days  
-✅ Custom code, animated transitions (Framer Motion / GSAP)  
-✅ Responsive, accessible, SEO-ready  
-✅ CMS integration (Sanity, Basehub, or Markdown)  
-✅ Hosting & deployment (Vercel, Neon, etc.)
+- Figma to production in 10 days  
+- Custom code, animated transitions (`framer-motion` / `GSAP`)  
+- Responsive, accessible, SEO-ready
+- CMS integration (`sanity`, `basehub`, or `markdown`)  
+- Hosting & deployment (`vercel`, `neon`, etc.)
 
 ### Why Work With Me
 
