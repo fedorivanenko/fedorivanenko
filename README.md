@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Code Partner for Web Design Studios
 
-<!--
-**fedorivanenko/fedorivanenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build brand and marketing animated websites with next.js and framer-motion
 
-Here are some ideas to get you started:
+Partnering with branding & web design studios to bring your designs to life with nuance, motion, and real performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- Frontend development for brand/marketing sites
+- Figma-to-production implementation
+- Responsive, accessible, lightning-fast builds
+- Micro-interactions & motion design
+- CMS integration — sanity.io / basehub.com / markdown
+- Hosting & deployment — vercel, neon, etc.
+
+### Why Work With Me
+
+- I deliver results
+- I speak design fluently (12 years of design experience)
+- I make websites easy to update and maintain
+- I care about interaction, motion, layout nuance
+
+### Tools of choice
+
+Frameworks & UI : `next` · `react` · `tailwind` · `shadcn/ui`
+
+CMS : `basehub` · `sanity` · `markdown`
+
+Motion : `framer-motion` · `gsap` · `use-gesture` · `three.js`
+
+Data & State  : `swr` · `zustand` · `zod` · `prisma`
+
+Infra : `vercel` · `neon`
+
+
+### Contact me
+f@fedor.studio
