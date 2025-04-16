@@ -25,8 +25,8 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 - 3–5 pages, animated, responsive  
 - CMS + deploy  
 - Delivered in 5–7 business days  
-→ Flat rate: ~$2,000–$3,000  
-→ 50% upfront, 50% on delivery
+- Flat rate: ~$2,000–$3,000  
+- 50% upfront, 50% on delivery
 
 ### Tools of choice
 `next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
@@ -34,4 +34,4 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 ### Contact me
 
 📩 f@fedor.studio  
-🧠 GitHub projects below  
+👇 See recent projects below  
