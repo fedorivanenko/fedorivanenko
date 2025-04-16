@@ -1,8 +1,8 @@
 ## 👋 Code Partner for Web Design Studios
 
-I build brand and marketing animated websites with `next.js`, `tailwind-css` and `framer-motion`
+I help branding and web design studios turn their visual identities into high-performance marketing websites — built with `next.js`, `tailwind-css`, and `framer-motion`. 
 
-Partnering with branding & web design studios to bring your designs to life with nuance, motion, and real performance.
+Every build is custom, fast, responsive, and animated with nuance — so your designs look and feel exactly the way you envisioned them, live in the browser.
 
 ### What I Do
 
