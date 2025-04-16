@@ -1,17 +1,16 @@
-## 👋 Code Partner for Web Design Studios
+## 👋 Developer for Web Design Studios  
+Your Design → Code → Live in 7 days  
 
-I help branding and web design studios turn their visual identities into high-performance marketing websites — built with `next.js`, `tailwind-css`, and `framer-motion`. 
+I help branding and web design studios turn finished visuals into custom-coded marketing websites.
 
-Every build is custom, fast, responsive, and animated with nuance — so your designs look and feel exactly the way you envisioned them, live in the browser.
+Built in Next.js with fluid animations and clean CMS setup, ready for handoff or ongoing edits.
 
-### What I Do
-
-- Frontend development for brand/marketing sites using `next.js`
-- Figma-to-production implementation
-- Responsive, accessible, lightning-fast builds
-- Micro-interactions & motion design — `framer-motion`
-- CMS integration — `sanity.io` / `basehub.com` / `markdown`
-- Hosting & deployment — vercel, neon, etc.
+### What You Get  
+✅ Figma to production in 7 days  
+✅ Custom code, animated transitions (Framer Motion / GSAP)  
+✅ Responsive, accessible, SEO-ready  
+✅ CMS integration (Sanity, Basehub, or Markdown)  
+✅ Hosting & deployment (Vercel, Neon, etc.)
 
 ### Why Work With Me
 
@@ -21,10 +20,18 @@ Every build is custom, fast, responsive, and animated with nuance — so your de
 - I care about interaction, motion, layout nuance
 - I also can do no-code and custom-code work in Framer and Webflow
 
+### Standard Scope  
+
+- 3–5 pages, animated, responsive  
+- CMS + deploy  
+- Delivered in 5–7 business days  
+→ Flat rate: ~$2,000–$3,000  
+→ 50% upfront, 50% on delivery
+
 ### Tools of choice
 `next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
 
 ### Contact me
-📩 f@fedor.studio
 
-👇 See my projects down below
+📩 f@fedor.studio  
+🧠 GitHub projects below  
