@@ -21,4 +21,4 @@ Partnering with branding & web design studios to bring your designs to life with
 - I care about interaction, motion, layout nuance
 
 ### Contact me
-f@fedor.studio
+📩 f@fedor.studio
