@@ -1,12 +1,12 @@
 ## 👋 Developer for Web Design Studios  
-Your Design → Code → Live in 7 days  
+Your Design → Code → Live in 10 days  
 
 I help branding and web design studios turn finished visuals into custom-coded marketing websites.
 
 Built in Next.js with fluid animations and clean CMS setup, ready for handoff or ongoing edits.
 
 ### What You Get  
-✅ Figma to production in 7 days  
+✅ Figma to production in 10 days  
 ✅ Custom code, animated transitions (Framer Motion / GSAP)  
 ✅ Responsive, accessible, SEO-ready  
 ✅ CMS integration (Sanity, Basehub, or Markdown)  
