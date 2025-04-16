@@ -19,6 +19,7 @@ Partnering with branding & web design studios to bring your designs to life with
 - I speak design fluently (12 years of design experience)
 - I make websites easy to update and maintain
 - I care about interaction, motion, layout nuance
+- I also can do no-code and custom-code work in Framer and Webflow
 
 ### Tools of choice
 `next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
