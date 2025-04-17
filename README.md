@@ -28,6 +28,10 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 - Flat rate: ~$2,000–$3,000  
 - 50% upfront, 50% on delivery
 
+### Recent Projects
+- https://ivpay.io
+- https://pzk.design
+
 ### Tools of choice
 `next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
 
@@ -35,6 +39,4 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 
 📩 f@fedor.studio  
 
-👇 See recent projects below  
-- https://ivpay.io
-- https://pzk.design
+👇 See more projects below  
