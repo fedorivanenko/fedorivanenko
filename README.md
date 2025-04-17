@@ -34,4 +34,7 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 ### Contact me
 
 📩 f@fedor.studio  
+
 👇 See recent projects below  
+- https://ivpay.io
+- https://pzk.design
