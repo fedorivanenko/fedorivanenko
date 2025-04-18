@@ -38,5 +38,6 @@ Built in Next.js with fluid animations and clean CMS setup, ready for handoff or
 ### Contact me
 
 📩 f@fedor.studio  
+🤙 https://cal.com/fedorivanenko/15min
 
 👇 See more projects below  
