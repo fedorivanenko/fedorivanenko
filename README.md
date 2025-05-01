@@ -1,12 +1,14 @@
+# Frontend Developer & Designer
+
 I build websites and UI
+
+JS/TS, React, CSS, and CSS-in-JS && 10 years of UX design experience
 
 ### Why Work With Me
 
 - I deliver results
-- I speak design fluently (8 years of design experience)
-- I make websites easy to update and maintain
+- I speak design fluently
 - I care about interaction, motion, layout nuance
-- I also can do no-code and custom-code work in Framer and Webflow
 
 ### Recent Projects
 - https://ivpay.io
