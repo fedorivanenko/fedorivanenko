@@ -11,15 +11,18 @@ JS/TS, React/Next.js, CSS, and CSS-in-JS && 10 years of UX design experience
 - I care about interaction, motion, layout nuance
 
 ### Recent Projects
-- https://ivpay.io
-- https://pzk.design
+- [ivpay.io](https://ivpay.io)
+- [pzk.design](https://pzk.design)
+- [three.js showcase](https://fedorivanenko-animations.vercel.app/)
 
 ### Tools of choice
-`next` `tailwind` `shadcn/ui` `basehub-cms` `framer-motion` `use-gesture` `three.js` `swr` `zustand` `zod` `prisma` `vercel` `neon`
+`next.js` `tailwind` `payload-cms` `zustand` `zod` `prisma` `swr` 
+
+`framer-motion` `gsap` `use-gesture` `three.js` `react-three`
 
 ### Contact me
 
 📩 f@fedor.studio  
-🤙 https://cal.com/fedorivanenko/15min
+🤙 [Book a call](https://cal.com/fedorivanenko/15min)
 
 👇 See more projects below  
