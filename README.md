@@ -13,7 +13,7 @@ JS/TS, React/Next.js, CSS, and CSS-in-JS && 10 years of UX design experience
 ### Recent Projects
 - [ivpay.io](https://ivpay.io)
 - [pzk.design](https://pzk.design)
-- [three.js showcase](https://fedorivanenko-animations.vercel.app/)
+- [animation showcase](https://fedor-animations.vercel.app/)
 
 ### Tools of choice
 `next.js` `tailwind` `payload-cms` `zustand` `zod` `prisma` `swr` 
