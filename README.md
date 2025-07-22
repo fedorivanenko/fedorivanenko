@@ -16,7 +16,7 @@ JS/TS, React/Next.js, CSS, and CSS-in-JS && 10 years of UX design experience
 - [animation showcase](https://fedor-animations.vercel.app/)
 
 ### Tools of choice
-`next.js` `tailwind` `payload-cms` `zustand` `zod` `prisma` `swr` 
+`next.js` `tailwind` `sanity` `zustand` `zod` `prisma` `swr` 
 
 `framer-motion` `gsap` `use-gesture` `three.js` `react-three`
 
