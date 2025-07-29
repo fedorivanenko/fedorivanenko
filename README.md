@@ -1,4 +1,4 @@
-# Frontend Developer & Designer
+# Next.js Fullstack + UX
 
 I build websites and UI
 
