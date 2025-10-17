@@ -1,3 +1,9 @@
-I build websites and UI
+Fedor
+designer + engineer
 
-JS/TS, React/Next.js, CSS, and CSS-in-JS && 10 years of UX design experience
+JS/TS,
+React/Next.js,
+CSS, and CSS-in-JS
+Sanity, Payload, Shopify
+Three, rAF, motion, react-springs
+&& 10 years of UX design experience
