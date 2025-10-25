@@ -8,6 +8,6 @@ designer + engineer
 - Sanity, Payload, Shopify
 - Three, rAF, motion, react-springs
   
-&& 10 years of UX design experience
+&& 8 years of UX design experience
 
 f@fedor.studio
