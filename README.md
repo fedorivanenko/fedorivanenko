@@ -1,9 +1,11 @@
-UX + SWE
+I'm Fedor Ivanenko, an independent AI engineer
 
-JS/TS, React/Next.js, CSS, Tailwind, Sanity, Shopify, Three.js
-
-&& 8 years of UX design experience
+I design and build AI-native tools with complex UI/UX from early concepts to production
+I also like to build websites and any cool UI you might need
 
 f@fedor.studio
 
-currently in collab with @hyuman.tech
+I also founder at nazare.engineering
+— I'm building AI agent harness that makes decisions you can trust
+
+f@nazare.engineering
